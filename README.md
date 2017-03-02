@@ -1,9 +1,3 @@
----
-title: "Stat110"
-author: "bhaskar"
-date: "2 March 2017"
-output: html_document
----
 
 ## sample space
 
